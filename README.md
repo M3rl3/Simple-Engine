@@ -1,1 +1,1 @@
-# Simple OpenGL Engine to bootstrap off of.
+# Simple OpenGL Engine
